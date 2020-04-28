@@ -38,5 +38,6 @@ render() {
     </form>
   );
 }
+}
 
 export default Form;
