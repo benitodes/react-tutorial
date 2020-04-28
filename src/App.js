@@ -20,11 +20,11 @@ class App extends Component {
         name: 'Dennis',
         job: 'Bartender',
       },
-
     ]
+
     return (
       <div className="container">
-        <Table />
+        <Table characterData={characters} />
       </div>
     )
   }
