@@ -10,24 +10,24 @@ class Table extends Component {
             <th>Job</th>
           </tr>
         </thead>
-        <tboby>
-          <td>
-            <tr>Charlie</tr>
-            <tr>Janitor</tr>
-          </td>
-          <td>
-            <tr>Mac</tr>
-            <tr>Bouncer</tr>
-          </td>
-          <td>
-            <tr>Dee</tr>
-            <tr>Aspiring actress</tr>
-          </td>
-          <td>
-            <tr>Dennis</tr>
-            <tr>Bartender</tr>
-          </td>
-        </tboby>
+        <tbody>
+          <tr>
+            <td>Charlie</td>
+            <td>Janitor</td>
+          </tr>
+          <tr>
+            <td>Mac</td>
+            <td>Bouncer</td>
+          </tr>
+          <tr>
+            <td>Dee</td>
+            <td>Aspiring actress</td>
+          </tr>
+          <tr>
+            <td>Dennis</td>
+            <td>Bartender</td>
+          </tr>
+        </tbody>
       </table>
     )
   }
